@@ -1,16 +1,15 @@
-## Hi there 👋
+## About Me
+COBOL developer with 15+ years of enterprise experience, now building a second career in AI engineering. 
 
-<!--
-**godwin-PH/godwin-PH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Skills
+- **Languages**: Python, COBOL, SQL
+- **AI**: Langchain, Pinecone, prompt engineering, GEMINI AI
+- **Domain Knowledge**: Financial systems, Insurance
 
-Here are some ideas to get you started:
+## My AI Journey
+- 🏦 **Then**: udemy courses for Langchain, GEN AI, vector database. RAG
+- 🤖 **Now**: Building a custom CHATGPT app with Langchain from scratch
+- 🔮 **Next**: To use my skills and experience and work as an AI engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Let's Connect
+I'm interested in opportunities where my enterprise background and emerging AI skills create unique value. Particularly interested in projects involving enterprise processes with AI.
